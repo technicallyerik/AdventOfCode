@@ -6,3 +6,4 @@ For the 2018 Advent of Code, I thought it would be fun to try a different progra
 * Day 2 - Ruby
 * Day 3 - Rust
 * Day 4 - Go
+* Day 5 - C++
