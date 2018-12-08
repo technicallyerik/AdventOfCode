@@ -9,3 +9,4 @@ For the 2018 Advent of Code, I thought it would be fun to try a different progra
 * Day 5 - C++
 * Day 6 - Lua
 * Day 7 - Python
+* Day 8 - Perl
