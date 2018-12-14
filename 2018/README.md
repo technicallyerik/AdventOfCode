@@ -13,3 +13,4 @@ For the 2018 Advent of Code, I thought it would be fun to try a different progra
 * Day 9 - Java
 * Day 10 - R
 * Day 11 - AppleScript
+* Day 12 - Haskell?
