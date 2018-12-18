@@ -16,11 +16,10 @@ For the 2018 Advent of Code, I thought it would be fun to try a different progra
 * Day 12 - Haskell?
 * Day 13 - JavaScript
 * Day 14 - Kotlin
-* Day 15 - ?
-* Day 16 - 
+* Day 15 - 
+* Day 16 - Scala
 
 ## Other Languages
-* Scala
 * Bash
 * Php
 * Scheme
