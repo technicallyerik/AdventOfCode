@@ -11,3 +11,6 @@ Themes Identified:
 * Day 8: Complex Loops
 * Day 9: Queues
 * Day 10: Dynamic Programming
+* Day 11: Game of Life
+* Day 12: Map Navigation
+* Day 13: Chinese Remainder Theorem
