@@ -14,3 +14,4 @@ Themes Identified:
 * Day 11: Game of Life
 * Day 12: Map Navigation
 * Day 13: Chinese Remainder Theorem
+* Day 14: Bit Masks
