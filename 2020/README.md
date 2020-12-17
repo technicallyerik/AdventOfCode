@@ -15,3 +15,4 @@ Themes Identified:
 * Day 12: Map Navigation
 * Day 13: Chinese Remainder Theorem
 * Day 14: Bit Masks
+* Day 15: Dictionaries
