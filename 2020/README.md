@@ -16,3 +16,5 @@ Themes Identified:
 * Day 13: Chinese Remainder Theorem
 * Day 14: Bit Masks
 * Day 15: Dictionaries
+* Day 16: Logic Grid Puzzle
+* Day 17: 4D Game of Life
