@@ -20,3 +20,5 @@ Themes Identified:
 * Day 17: 4D Game of Life
 * Day 18: Recusion / Stacks
 * Day 19: Rule parsing
+* Day 20: Jigsaw Puzzle
+* Day 21: Advanced Sets
