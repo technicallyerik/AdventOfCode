@@ -22,3 +22,4 @@ Themes Identified:
 * Day 19: Rule parsing
 * Day 20: Jigsaw Puzzle
 * Day 21: Advanced Sets
+* Day 22: Advanced Recursion
