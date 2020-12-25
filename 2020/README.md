@@ -23,3 +23,4 @@ Themes Identified:
 * Day 20: Jigsaw Puzzle
 * Day 21: Advanced Sets
 * Day 22: Advanced Recursion
+* Day 23: Circular Linked List
