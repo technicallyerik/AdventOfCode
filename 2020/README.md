@@ -13,7 +13,7 @@ Themes Identified:
 * Day 10: Dynamic Programming
 * Day 11: Game of Life
 * Day 12: Map Navigation
-* Day 13: Chinese Remainder Theorem
+* Day 13: Advanced Modulo
 * Day 14: Bit Masks
 * Day 15: Dictionaries
 * Day 16: Logic Grid Puzzle

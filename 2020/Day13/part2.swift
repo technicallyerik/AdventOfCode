@@ -12,17 +12,16 @@ for i in 0..<busses.count {
 	}
 }
 
-// Brute force
-for i in 1... {
-	if(busObjs.allSatisfy({ (i + $0.start) % $0.duration == 0 })) {
+var i = 0
+while(true) {
+	let matchingBusses = busObjs.filter({ (i + $0.start) % $0.duration == 0 })
+	if(matchingBusses.count == busObjs.count) {
 		print(i)
 		break
 	}
+	let multiplier = matchingBusses.map({ $0.duration }).reduce(1, *)
+	i += multiplier
 }
-
-// CRT -- Couldn't get this algorithm working
-// let result = abs(crt(busObjs.map({$0.start}), busObjs.map({$0.duration})))
-// print(result)
 
 class bus {
 	init(start: Int, duration: Int) {
