@@ -25,3 +25,4 @@ Themes Identified:
 * Day 22: Advanced Recursion
 * Day 23: Circular Linked List
 * Day 24: Hex Tiles
+* Day 25: Asymmetric Encryption
